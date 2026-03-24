@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 
 - 💻 Passionate about **Web Development & Problem Solving**  
-- 🧠 Strong focus on **Data Structures & Algorithms (C++)**  
+- 🧠 Strong focus on **Data Structures & Algorithms (Java)**  
 - 🔨 Building **real-world MERN stack projects**  
 - 📈 Consistently improving with a growth mindset  
 - 🎯 Goal-oriented and focused on becoming a **top software engineer**  
@@ -17,7 +17,7 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,express,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,express,python,git,github" />
 </p>
 
 ---
