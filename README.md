@@ -18,4 +18,4 @@ I'm passionate about web development and problem solving, with a strong focus on
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/khushwant-kumar-206a99321) • [Email](Khushwantkumr123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/khushwant-kumar-206a99321) • [Email](mailto:Khushwantkumr123@gmail.com)
