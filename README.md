@@ -1,85 +1,21 @@
-# 👋 Hi, I'm Khushwant 
+Hi 👋, I'm Khushwant
 
-### 🚀 Developer | DSA Enthusiast | MERN Stack Learner  
 
----
+Student — work in progress, constantly evolving.
 
-## 🚀 About Me  
+I'm passionate about web development and problem solving, with a strong focus on Data Structures & Algorithms using C++, and building real-world MERN stack projects.
 
-- 💻 Passionate about **Web Development & Problem Solving**  
-- 🧠 Strong focus on **Data Structures & Algorithms (Java)**  
-- 🔨 Building **real-world MERN stack projects**  
-- 📈 Consistently improving with a growth mindset  
-- 🎯 Goal-oriented and focused on becoming a **top software engineer**  
+## Tech Stack
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 💻 Tech Stack  
+## Connect With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,express,python,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khushwant-17&show_icons=true&theme=radical&hide_border=true" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=khushwant-17&theme=radical&hide_border=true" height="150"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushwant-17&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushwant-17&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🧠 Currently Learning  
-
-- 📚 Data Structures & Algorithms (Java)  
-- ⚙️ Backend Development (Node.js, Express)  
-- 🏗️ System Design Basics  
-- 🤖 Exploring AI Tools & Integrations  
-
----
-
-## 📌 Goals  
-
-- 🚀 Become a **skilled Software Developer**  
-- 💼 Crack **top tech placements**  
-- 🔥 Build **impactful and scalable projects**  
-- 🌍 Contribute to **open source**  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:khushwantkumr123@gmail.com">Email</a>
-</p>
-
----
-
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushwant-17&color=blue&style=flat-square" />
-</p>
-
----
-
-## ⚡ Quote  
-
-> **"Code. Solve. Build. Repeat."**
+[LinkedIn](https://www.linkedin.com/in/khushwant-kumar-206a99321) • [Email](Khushwantkumr123@gmail.com)
